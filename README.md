@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Lab Environment Setup
+# 🔐 Cybersecurity Lab Environment Setup - Week- 1 NetworkWalks
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 
